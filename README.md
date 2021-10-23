@@ -11,7 +11,7 @@ $  apt install python2
 
 $  apt install git
 
-$  git clone https://github.com/bhikandeshmukh/fbreport.git
+$  git clone https://github.com/darkboss1/Facebook-report-Script-by-darkboss1.git
 
 $  cd fbreport
 
